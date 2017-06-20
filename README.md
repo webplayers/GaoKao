@@ -8,7 +8,7 @@ react native高考掌上助手
 <h2>高考管家app界面</h2>
 
 
-<img width=30% src="http://497751395.cn/image/a2.png"> <img width=30% src="http://497751395.cn/image/a1.png">
+<img width=30% src="http://118.89.39.205/image/a2.png"> <img width=30% src="http://118.89.39.205/image/a1.png">
 
 本app实现了高考估分查询的基本功能
 
